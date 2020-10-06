@@ -1,0 +1,22 @@
+body {
+    background: url('../img/rojo.jpg');
+    background-attachment: fixed;
+}
+
+#logo {
+    background: #B32810;
+}
+
+#menu ul li:hover {
+    background: #B32810;
+}
+
+.button-more {
+    background: #B32810;
+}
+
+.ui-accordion .ui-accordion-header {
+    background: #B32810;
+    border: 1px solid #B32810;
+    color: white;
+}

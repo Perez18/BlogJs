@@ -1,0 +1,22 @@
+body {
+    background: url('../img/hojas.jpg');
+    background-attachment: fixed;
+}
+
+#logo {
+    background: #285C00;
+}
+
+#menu ul li:hover {
+    background: #285C00;
+}
+
+.button-more {
+    background: #285C00;
+}
+
+.ui-accordion .ui-accordion-header {
+    background: #285C00;
+    border: 1px solid #285C00;
+    color: white;
+}
