@@ -1,2 +1,2 @@
 ## BlogJs
-Blog Creado con vanilla Js
+Blog Creado con Jquery Ui,Js nativa , Ajax
